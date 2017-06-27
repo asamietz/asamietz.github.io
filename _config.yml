@@ -9,10 +9,10 @@
 title: Alexander Samietz
 email: alexandersamietz@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  testing123
+  Made with love by Alexander Samietz :)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+url: "http://alexandersamietz.com" # the base hostname & protocol for your site
+linkedin: https://www.linkedin.com/in/alexandersamietz/ 
 github_username:  asamietz
 
 # Build settings
